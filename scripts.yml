@@ -1,0 +1,15 @@
+id: 1000
+name: Github Collection Test
+groups:
+- id: 1001
+  name: Group 1
+  scripts:
+  - id: 1011
+    name: script 1.1
+    command: open http://google.com
+  - id: 1012
+    name: script 1.2
+    command: echo hello world
+  - id: 1013
+    name: script 1.3
+    command: echo hello world
